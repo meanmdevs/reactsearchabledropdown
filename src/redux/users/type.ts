@@ -1,0 +1,3 @@
+export const COUNTRY_ADD_SUCCESSFUL = "COUNTRY_ADD_SUCCESSFUL" as const;
+export const COUNTRY_PROCESSING = "COUNTRY_PROCESSING" as const;
+
